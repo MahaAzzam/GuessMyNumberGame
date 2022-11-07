@@ -1,7 +1,7 @@
 {
   "expoServerPort": 19000,
   "packagerPort": 19000,
-  "expoServerNgrokUrl": "https://wf-6xi.anonymous.guessmynumbergame.exp.direct",
-  "packagerNgrokUrl": "https://wf-6xi.anonymous.guessmynumbergame.exp.direct",
-  "ngrokPid": 14700
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
